@@ -26,8 +26,4 @@ loyst = {
 
 [![](https://img.shields.io/badge/proton-loyst.dev%40proton.me-6d4aff?style=flat&logo=protonmail&logoColor=white)](mailto:loyst.dev@proton.me)
 
-<br>
-
-<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="160" />
-
 </div>

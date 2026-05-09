@@ -1,58 +1,33 @@
-# loyst
+<div align="center">
 
-> *building things from nothing. literally.*
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=700&size=40&duration=4000&pause=300&color=8B8FA8&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=hey+%2F%2F+i'm+loyst;i+build+things+that+work" />
 
----
-
-broke. determined. dangerous with a terminal.
-
-started with Linux because i had no choice.
-stayed because nothing else made sense.
-now i write code that actually does something —
-web apps, CLI tools, systems stuff, whatever needs to exist.
-
----
-
-## what i work with
+<br>
 
 ```
-Languages   →   Rust · Python · JavaScript
-Frontend    →   SvelteKit · HTML/CSS
-Backend     →   Python (FastAPI / Flask)
-System      →   Linux (Arch) · Bash · CLI tooling
-Learning    →   Rust (seriously)
+  data analyst · data engineer · web dev · linux guy
+  ricing setups since before it was cool
+  currently: learning rust. dangerously.
 ```
 
----
+<br>
 
-## things i've shipped
+```python
+loyst = {
+    "stack"  : ["Python", "Rust", "SvelteKit"],
+    "domain" : ["data engineering", "web", "linux tooling"],
+    "os"     : "Arch (btw)",
+    "hobby"  : ["hardware", "ricing", "breaking things"],
+    "status" : "building in the dark 🌑"
+}
+```
 
-- **video downloader** — web app. deployed. indexed on Google. real users.
-- **gerber viewer** — PCB file viewer in the browser. SvelteKit + Python. niche but needed.
-- more coming. always.
+<br>
 
----
+[![](https://img.shields.io/badge/proton-loyst.dev%40proton.me-6d4aff?style=flat&logo=protonmail&logoColor=white)](mailto:loyst.dev@proton.me)
 
-## the story
+<br>
 
-no money. no fancy setup. just an old laptop, Arch Linux, and too much time spent in the terminal.
+<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="160" />
 
-taught myself everything from scratch — web dev, Linux internals, Python, now Rust.
-not for a certificate. because i wanted to understand how things actually work.
-
-currently turning side projects into something real.
-long game.
-
----
-
-## what's next
-
-getting deep into Rust.
-open source work.
-tools that Linux devs actually want to use.
-
----
-
-*if something i built helped you — star it. if you wanna collaborate — open an issue.*
-
-`l0yst` on GitHub &nbsp;·&nbsp; always building
+</div>
